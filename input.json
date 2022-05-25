@@ -1,0 +1,7 @@
+{
+    "method": "GET",
+    "path": "/api",
+    "subject": {
+        "user": "bobaa"
+    }
+}
